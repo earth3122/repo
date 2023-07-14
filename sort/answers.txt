@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Bubble Sort is the worst algorithm when the data is reversed, meaning the first data which should be the last has to bubble all the way to the last before the algorithm can run second loop and so on.
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge Sort has the upper-bound and the lower-bound of 'n log n' which mean even the data is already sorted or sorted in reversed, this algorithm will take roughly same amount of time to run.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection Sort compares each element of the data with each other, so even the data is already sorted this algorithm still takes roughly the same amount of time as random data, unlike the bubble sort.
